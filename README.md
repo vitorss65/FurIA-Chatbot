@@ -5,7 +5,7 @@ O objetivo deste primeiro desafio é de criar um Chatbot interativo onde o usuá
 Desenvolvi o projeto utilizando o Python, com a biblioteca telebot e o criador de bot do telegram BotFather.</br>
 Motivação: Para esse tipo de serviço a melhor opção que visualizei foi criar um chatbot pelo Telegram, pois é uma rede de facil acesso e permite facil usabilidade, precisando de poucos cliques para chegar no resultado.
 
-**Link do projeto:** [FurIA](t.me/furiateamfan_bot)
+**Link do projeto:** [FurIA](https://t.me/furiateamfan_bot)
 ## 1-Funcionalidades
 
 O bot oferece as seguintes funcionalidades:
