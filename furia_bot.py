@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-TOKEN = "7401582647:AAH6hRWssKJPBaAlp6smYKMCdHK8gAs3zP0"
+TOKEN = "token privado"
 bot = telebot.TeleBot(TOKEN)
 
 PROXIMO_JOGO = """
